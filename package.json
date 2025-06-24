@@ -44,7 +44,10 @@
     "LICENSE",
     "README.md",
     "README_zh_CN.md",
-    "MAINTAINERS.md"
+    "MAINTAINERS.md",
+    "./babel-register.js",
+    "./build.js",
+    ""
   ],
   "prettier": {
     "printWidth": 120,
