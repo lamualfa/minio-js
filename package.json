@@ -46,8 +46,7 @@
     "README_zh_CN.md",
     "MAINTAINERS.md",
     "./babel-register.js",
-    "./build.js",
-    ""
+    "./build.mjs"
   ],
   "prettier": {
     "printWidth": 120,
